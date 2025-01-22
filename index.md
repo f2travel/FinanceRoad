@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # FinanceRoadへようこそ
 
 これは、私の投資の旅や金融に関するアドバイスを共有するブログです。  
