@@ -2,3 +2,5 @@ theme: minima
 title: "FinanceRoad - 私の投資ブログ"
 description: "投資初心者のためのブログ"
 author: "あなたの名前"
+include:
+  - style.css
