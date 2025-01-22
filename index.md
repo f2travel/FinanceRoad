@@ -1,9 +1,9 @@
-# Welcome to FinanceRoad
+# FinanceRoadへようこそ
 
-This is a blog about my journey in investment and financial tips.  
-Stay tuned for insights on smart investing, saving strategies, and more.
+これは、私の投資の旅や金融に関するアドバイスを共有するブログです。  
+賢い投資、節約方法などについてお届けします！
 
-## Recent Topics
-- [How to Start Investing](#)
-- [Top 5 Investment Mistakes to Avoid](#)
-- [Building a Financially Secure Future](#)
+## 最近の投稿
+- [投資を始めるには？](#)
+- [初心者が避けるべき投資ミス5選](#)
+- [経済的自由を目指す方法](#)
