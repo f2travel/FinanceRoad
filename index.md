@@ -1,4 +1,10 @@
 <link rel="stylesheet" href="style.css">
+
+<header>
+    <img src="logo.png" alt="FinanceRoadのロゴ" style="height: 50px; vertical-align: middle; margin-right: 10px;">
+    <h1>FinanceRoad - 私の投資ブログ</h1>
+</header>
+
 # FinanceRoadへようこそ
 
 これは、私の投資の旅や金融に関するアドバイスを共有するブログです。  
