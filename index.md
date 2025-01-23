@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
 <header>
-    <img src="logo.png" alt="FinanceRoadのロゴ" style="height: 50px; vertical-align: middle; margin-right: 10px;">
+    <img src="logo.png.PNG" alt="FinanceRoadのロゴ" style="height: 50px; vertical-align: middle; margin-right: 10px;">
     <h1 style="display: inline-block; vertical-align: middle;">FinanceRoad - 私の投資ブログ</h1>
 </header>
 
