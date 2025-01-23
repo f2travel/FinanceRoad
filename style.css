@@ -61,3 +61,10 @@ h2 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+/* 記事リストのアイコンスタイル */
+ul li::before {
+    content: '🌟'; /* アイコン（絵文字）を使用、必要に応じて変更 */
+    margin-right: 10px;
+    color: #ff9800; /* アイコンの色 */
+    font-size: 1.2em;
+}
