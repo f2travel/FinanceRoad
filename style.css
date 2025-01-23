@@ -26,6 +26,12 @@ header {
     font-size: 1.5em;
 }
 
+/* ヘッダー内ロゴのスタイル */
+header img {
+    vertical-align: middle; /* ロゴとテキストを中央揃え */
+    margin-right: 10px; /* ロゴとテキストの間に余白を追加 */
+}
+
 /* フッター */
 footer {
     background-color: #333333;
@@ -61,6 +67,7 @@ h2 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
 /* 記事リストのアイコンスタイル */
 ul li::before {
     content: '🌟'; /* アイコン（絵文字）を使用、必要に応じて変更 */
