@@ -5,14 +5,16 @@ body {
     font-family: 'Yu Gothic', 'メイリオ', sans-serif;
 }
 
-/* リンクの色 */
+/* リンクの色とホバー効果 */
 a {
     color: #ff9800;
     text-decoration: none;
+    transition: all 0.3s ease; /* アニメーションのスムーズな変化 */
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #ff5722; /* ホバー時に色を変更 */
+    text-decoration: underline; /* アンダーラインを表示 */
 }
 
 /* ヘッダー */
